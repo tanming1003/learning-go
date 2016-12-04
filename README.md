@@ -1,1 +1,2 @@
 # learning-go
+for fun!
